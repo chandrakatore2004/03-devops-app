@@ -29,7 +29,7 @@
 
     <dependency>
         <groupId>org.springframework</groupId>
-        <artifactId>spring-clean-plugin</artifactId>
+        <artifactId>spring-clean</artifactId>
         <version>6.1.7</version>
     </dependency>
 </dependencies>
